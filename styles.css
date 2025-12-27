@@ -1,0 +1,21 @@
+body {
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+.sidebar .nav-link {
+  padding: 8px 0;
+  color: #555;
+}
+
+.sidebar .nav-link.active {
+  font-weight: 600;
+  color: #000;
+}
+
+.card {
+  border-radius: 14px;
+}
+
+#bloodPressureChart {
+  width: 100%;
+}
